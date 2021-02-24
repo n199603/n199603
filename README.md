@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Status
-<!-- リポジトリステータス -->
-[![Yuto's github stats](https://github-readme-stats.vercel.app/api?username=n199603&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/n199603/)
-
-<!-- ソースコード統計 -->[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n199603&layout=compact&theme=tokyonight)](https://github.com/n199603/)
+## ⚡ Status
+[![Yuki's github stats](https://readme-stats.psbss.vercel.app/api?username=n199603&hide=contribs&count_private=true&show_icons=true&theme=algolia)](https://github.com/n199603/)
+[![Top used Langs](https://readme-stats.psbss.vercel.app/api/top-langs/?username=n199603&hide=php,blade&layout=compact&theme=algolia)](https://github.com/n199603/)
